@@ -1,0 +1,33 @@
+---
+title: Reflections Upon Grading As I Begin My Hiatus, Part II
+author: silvaphd
+layout: post
+permalink: /reflections-upon-grading-as-i-begin-my-hiatus-part-ii/
+categories:
+  - teaching
+tags:
+  - "don't look back in anger"
+  - grading
+  - higher ed
+---
+<span class='embed-youtube' style='text-align:center; display: block;'></span> 
+
+*Musical interlude, seemingly unrelated to grading*
+
+On Monday I [posted][1] the first part of my reflections upon grading. I titled it &#8220;Don&#8217;t Look Back in Anger&#8221; because amidst my frustration and stress that last day, I started humming to myself, out of nowhere, Oasis&#8217;s song. It seemed fitting that grading would make me think &#8220;Don&#8217;t look back in anger,&#8221; because grading is the one thing I dislike about teaching&#8230;this doesn&#8217;t mean I don&#8217;t like teaching. On the contrary, I enjoy teaching very much. It&#8217;s the reason why I try so hard to figure out how to effectively assess that my students are ready to move on from my class.
+
+As far as I can remember I&#8217;ve struggled with grading. When I started, I struggled with how to add and subtract grades. You&#8217;d think college instructors would know that. I&#8217;m sure there are departments where instructors learn that sort of thing. My department wasn&#8217;t one of them. It honestly didn&#8217;t make sense to me: &#8220;So I add the letters? And the letters have different values? Ok, ok, that I get. Wait, what? An A minus is how much? Oh, screw that.&#8221; (It didn&#8217;t help that the school where I did my undergrad only had whole letter grades, so the slight variations between pluses and minuses didn&#8217;t really come into focus until way later. I&#8217;d argue they&#8217;re still a little fuzzy.) I honestly don&#8217;t remember who helped me figure out how to tally grades, but eventually I handed something in to the professor for whom I was a TA.
+
+My troubles were so simple then. After that I taught my very own writing course for the first time. It was scary. I had no idea where to start! And assignments? How do I figure out what assignments to teach? And how to grade them? Needless to say that first semester was, well, tough. Grading didn&#8217;t get any easier. So my second semester teaching writing I switched from letter grades to number grades. My rationale for this was the numbers would keep the students from obsessing over the letter A and focus on what what going on in the paper. The rubric I put together showed the students areas where they excelled (+ points) and areas where they missed the mark (- points). It would also make adding and subtracting at the end of the course a heck of a lot easier. (C&#8217;mon, we all invest so much time and energy into our jobs, why can&#8217;t we make this one part of our job easier?) But a colleague rightfully pointed out, at the end you still have to give them a letter grade. All the numbers still translate into a letter. Huh.
+
+Enter a whole new system. At my old school we had a brand spankin&#8217;-new writing program right after I finished teaching my second writing course; I learned about the portfolio system, which they incorporated into the curriculum. I really like the concept of the portfolio system, and from what I&#8217;ve heard on Twitter, a lot of other writing instructors do too.  If you&#8217;re not familiar with it, here&#8217;s how it goes at my old school: the students would submit their work throughout the semester, I&#8217;d fill out a rubric and tell them what category their paper fell under (plus some feedback), and they&#8217;d revise three out of four papers for their end-of-semester portfolio. At the end I&#8217;d evaluate what grade the student had earned for their overall work (as seen in the portfolio). So far I like this system better than other systems&#8211; for one, it helps when you have just three letter grades to tally instead of several smaller grades for smaller projects. But the major reason I like it is because it fosters revision, introspection&#8230;when done right. At its worse you end up reading the same exact draft you read weeks ago, no changes. This is the source of frustration for some instructors.
+
+However, in the end, I still had to read and pretend-grade dozens of essays every few weeks. It still took up my time and my energy. The system is a good system in theory, but still plenty of work. I tried this grading system when I started adjuncting at a community college, but the students slacked off. Some didn&#8217;t hand in the drafts, some refused to even edit their final drafts, others didn&#8217;t even try to hand in a complete portfolio. I blamed the portfolio process; perhaps they didn&#8217;t feel accountable to me or to themselves. So this semester I tried grading their papers throughout the semester and made the revised portfolio optional. However, what seems like a good deal for the students (at least those who actually tried to improve their papers) resulted in a painful, stressful few weeks for me. That last week of the semester I had to reread dozens of essays that I had already gone through the trouble of grading the first time, and many of them had not even an inkling of revision. I found myself rereading their revisions AND their originals to ensure fairness. Honestly, I don&#8217;t get paid enough money to do all this work. I don&#8217;t.
+
+Sure, my painful grading could be the students&#8217; fault, but I don&#8217;t blame the tedious process on them. I refuse to put the blame on the quality of their work; I am there to help them, am I not? And if they don&#8217;t hand in A work, I always wonder what I can do next time to ensure that they improve. (This might be part of the reason why grading feels like such an intense process, but that&#8217;s a whole other ballgame.) I blame our obsession with these letters: theirs, mine, and the administrations. We still want to know what letter grade we received because A equals excellence, B equals good work, C equals satisfactory work (or &#8220;damn, I&#8217;m no good at writing&#8221; which is what students usually think when they see a C), and anything below means &#8220;Forget about it.&#8221;
+
+Even though I&#8217;m not teaching anymore, I still think about these issues. (You never know, I might make my way back into the classroom some day.) For writing, wouldn&#8217;t it be more beneficial if we could just work with them closely throughout the semester on revising their papers instead of fussing over grades?
+
+I will miss teaching. But I won&#8217;t miss grading. Nope, not at all.
+
+ [1]: http://wordsaremygame.wordpress.com/2011/05/23/dont-look-back-in-anger-or-reflections-upon-grading-as-i-begin-my-hiatus/

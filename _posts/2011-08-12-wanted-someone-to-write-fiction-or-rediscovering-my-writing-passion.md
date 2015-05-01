@@ -1,0 +1,28 @@
+---
+title: 'Wanted: Someone To Write Fiction (Or, Rediscovering My Passion For Writing Fiction)'
+author: silvaphd
+layout: post
+permalink: /wanted-someone-to-write-fiction-or-rediscovering-my-writing-passion/
+categories:
+  - Uncategorized
+---
+A few months ago I mentioned how [I started blogging because I wanted to hone my writing outside of the academy][1]. I became an English major because I loved books and I wanted to write fiction. (Teaching was an extension of that.) After I quit my adjuncting position I rediscovered writing for myself; now that I&#8217;m back to work, I don’t want to let go. Although blogging is something I’m becoming more comfortable with, and even though I am exercising my writing muscles on a regular basis (freewriting for my latest dissertation chapter, tweeting my thoughts on New York Times headlines), the one place where I have my heart is fiction.
+
+A long long time ago, I used to write stories. Short stories, long stories, funny stories, sad stories. I remember being in eighth grade and trying to write a novel. (It wasn&#8217;t that good. Trust me.) But when I think about my writing roots, I feel proud that I had such literary inclinations early on. I don’t feel like such a poser when I think about wanting to write and publish fiction.
+
+As a high school student applying to college, I had no clue that there was such a thing as Creative Writing programs. I wanted to teach, but I also wanted to write. Somewhere along the way, I took a right where I probably could’ve taken a left. I started to write more for my classes, and I was focused on my professional development in that regard. I focused more on becoming a college professor and less on my writing. Teaching was the actual job I was training for. But writing was the dream job. I had no clue what becoming a writer entailed, but I knew that it wouldn’t be easy to just write a novel and publish it and earn millions. So I wrote less and less fiction, and more and more academic papers. I wrote personal statements for grad school. I wrote an honors thesis.  
+Eventually, I stopped writing fiction. I collected sentences from novels, essays, stories, but I stopped writing my own. I marveled at the artistry that went into building a story, and critiqued the unchecked assumptions of writers. I walked away from creating and focused on deconstructing.
+
+This doesn’t mean that I hate academic writing. Part of me likes to build complex ideas and engage research on different topics. I am particularly drawn to analyzing pop culture. But it got to a point where I couldn’t read a book without pulling it apart. Books were no longer works of art, carefully crafted by writers and editors. They were texts to be broken, to be analyzed. Part of me felt inclined to do that (after all, I was trained to do that) but part of me felt sad when I came across books I enjoyed. Case in point: one semester I presented on a book I love very very much for a grad class. As I sat there listening to my peers flesh out the contradictions and the problems within the novel, my heart broke. I LOVED this novel. I didn’t want them to tear it apart! (Ironically, I am writing on the same novel in chapter 2 of my dissertation. I am doing the exact thing that made me cringe in the classroom.)
+
+Meanwhile, my fiction muscles lay dormant. They stayed that way until my last year of coursework. That last year I decided to use up my last elective credits not on an independent study or another class for my dissertation, but on a fiction workshop. I’d heard good things about this particular professor, and other students reassured me I wouldn’t be the odd gal out because I wasn’t creative writing.
+
+I felt like all semester long I had to prove myself to the creative writers. After all, I was in the literary criticism band. They probably thought of me as one of those kids taking the class for an easy A or just to decompress from my other “labor intensive” classes. The truth they didn’t know was that I put my heart and soul into every story. I finally was making time to write, and those stories meant a lot to me. I wanted to learn about crafting stories, not just get my easy A. It was the first time I had an audience for my stories, ready to tell me what worked and what didn&#8217;t.
+
+I came out of that class with three pretty good stories, at least I think so. I submitted one to a local literary journal in Binghamton, but they didn’t want it. Another one of my stories I’m still looking to find it a home. I worked really hard on it; it’s a story I feel proud of. My academic writing may have faults, or be a little frayed at the seams (is it because I don’t wield literary theory at every corner?) but I feel good about my fiction.
+
+Years later, here I am: laboring away at my dissertation, itching to break out of my candy academic-writing shell. Part of me wants to drop everything and start working on my fiction. If I don’t do it, I’ll always dream of the book I could’ve written. But part of me knows I have to wait. I have to wait until I’m done with this dissertation (my other book, if you want to look at it that way.) Sometimes I get frustrated with my dissertation because I want to run out and play with my words. But then I remember this isn’t a permanent state if I don’t want to. And writing (for this blog, for other blogs, for myself) has really helped me with my dissertation writing because I don&#8217;t feel frustrated or boxed in anymore.
+
+So I scribble ideas here and there, waiting to find them a home.
+
+ [1]: http://wordsaremygame.wordpress.com/2011/06/17/

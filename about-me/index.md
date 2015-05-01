@@ -1,0 +1,32 @@
+---
+title: About Me
+author: LMS
+layout: page
+custom_sidebar:
+  - default
+subtitle:
+  - 
+---
+Allow me to introduce myself. My name is Liana, and I take words seriously. Hence, the subtitle: *I play well with words*.
+
+**Once upon a time&#8230;[<img class="alignright size-medium wp-image-5047" alt="2015-03-20 18.20.45" src="http://www.lianamsilvaford.com/wp-content/uploads/2013/06/2015-03-20-18.20.45-225x300.jpg" width="225" height="300" />][1]**
+
+I lived in New York City.
+
+Then I moved with my parents to a little island in the Caribbean called Puerto Rico.
+
+Then I obtained a fellowship for graduate school at a university in Upstate New York.
+
+Then I had a daughter and moved to Kansas City with my boyfriend.
+
+Then I became an adjunct.
+
+Then I finished my PhD and got married.
+
+Then I moved to Houston with my husband and toddler.
+
+Then I got divorced and moved on with my life.
+
+**And now?** I write, edit, and work as an independent scholar. I am a reader, a writer, a listener, a daughter, and a mother. I also think too much about writing, popular culture, gender, and watch too much tv. It all comes together on this site.
+
+ [1]: http://www.lianamsilvaford.com/wp-content/uploads/2013/06/2015-03-20-18.20.45.jpg
